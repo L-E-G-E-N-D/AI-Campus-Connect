@@ -45,7 +45,7 @@ An **AI assistant** is integrated to answer FAQs, summarize announcements, recom
 
 ---
 
-**8. Expected Outcome**  
+**9. Expected Outcome**  
 A deployable mobile application that enhances campus communication, improves student engagement, and provides AI-powered instant assistance.  
 This will demonstrate skills in **mobile development, cloud services, real-time databases, and AI integration**—making it a strong addition to the resume.  
 
